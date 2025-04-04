@@ -83,7 +83,7 @@ const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KE
 
 ## 📸 Screenshots
 
-_You can add screenshots of your UI below for a visual preview._
+_Here is a visual preview._
 
 ![Homepage](Screenshot_1.png)
 
