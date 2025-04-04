@@ -85,9 +85,7 @@ const SEARCHAPI = "https://api.themoviedb.org/3/search/movie?api_key=YOUR_API_KE
 
 _You can add screenshots of your UI below for a visual preview._
 
-```
-![Game Cover](Screenshot_1.png)
-```
+![Homepage](Screenshot_1.png)
 
 ---
 
