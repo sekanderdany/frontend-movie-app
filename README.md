@@ -29,10 +29,12 @@ A simple and elegant frontend web application that allows users to browse and se
 ```
 frontend-movie-app/
 │
-├── index.html       # Main HTML page
-├── style.css        # Stylesheet
-├── script.js        # JavaScript logic
-└── README.md        # Project documentation
+├── index.html          # Main HTML page
+├── style.css           # Stylesheet
+├── script.js           # JavaScript logic
+└── README.md           # Project documentation
+└── Screenshot_1.png    # Homepage Screenshot
+└── image.jpg           # Sample Image
 ```
 
 ---
