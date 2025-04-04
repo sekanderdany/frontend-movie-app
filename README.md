@@ -97,7 +97,7 @@ Made with ❤️ by **Sekander Dany**
 
 - GitHub: [@sekanderdany](https://github.com/sekanderdany)
 - Repo: [frontend-movie-app](https://github.com/sekanderdany/frontend-movie-app)
-- Big Thanks to: [@freecodecamp](https://github.com/freecodecamp) and their [Youtube](https://www.youtube.com/@freecodecamp) channel
+- Big Thanks to: [@freecodecamp](https://github.com/freecodecamp) and their [YouTube](https://www.youtube.com/@freecodecamp) channel
 
 ---
 
